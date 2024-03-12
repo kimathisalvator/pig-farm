@@ -1,0 +1,11 @@
+ERROR:root:An error occurred while displaying slaughtered batches: tuple index out of range
+ERROR:root:An error occurred while displaying slaughtered batches: no such column: males_reduced
+ERROR:root:An error occurred while displaying slaughtered batches: no such column: males_reduced
+ERROR:root:An error occurred while displaying slaughtered batches: no such column: males_reduced
+ERROR:root:An error occurred while displaying slaughtered batches: no such column: males_reduced
+ERROR:root:An error occurred while displaying slaughtered batches: no such column: number_reduced
+ERROR:root:An error occurred while displaying slaughtered batches: no such column: number_reduced
+ERROR:root:Error updating pig numbers: table slaughter_information has no column named males_reduced
+ERROR:root:Error updating pig numbers: table slaughter_information has no column named males_reduced
+ERROR:root:Error updating pig numbers: table slaughter_information has no column named males_slaughtered
+ERROR:root:Error updating pig numbers: table slaughter_information has no column named males_slaughtered
